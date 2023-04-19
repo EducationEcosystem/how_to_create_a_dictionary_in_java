@@ -1,0 +1,11 @@
+.search{
+-fx-background-color:#2196f3;
+}
+.search:hover{
+-fx-background-color:#1a74bb;
+}
+.search:pressed{
+-fx-background-color:#114771;
+-fx-border-width:2px;
+-fx-border-color:white;
+}
